@@ -1,0 +1,4 @@
+matplotlib
+
+# tkinter geralmente já faz parte da instalação do Python em Windows
+# instale com: pip install matplotlib
